@@ -1,0 +1,40 @@
+﻿.transition(@transition) {
+	-webkit-transition: @transition;
+	-moz-transition: @transition;
+	-o-transition: @transition;
+	transition: @transition;
+}
+.transform(@transform) {
+	-webkit-transform: @transform;
+	-moz-transform: @transform;
+	-ms-transform: @transform;
+	-o-transform: @transform;
+	transform: @transform;
+}
+.transform_origin(@transform_origin) {
+	-moz-transform-origin: @transform_origin;
+	-ms-transform-origin: @transform_origin;
+	-o-transform-origin: @transform_origin;
+	-webkit-transform-origin: @transform_origin;
+	transform-origin: @transform_origin;
+}
+.transform_transition(@transform_transition) {
+	-webkit-transition: -webkit-transform @transform_transition;
+	-moz-transition: -moz-transform @transform_transition;
+	-o-transition: -o-transform @transform_transition;
+	transition: transform @transform_transition;
+}
+
+.user_select(@user_select) {
+	-moz-user-select: @user_select;
+	-ms-user-select: @user_select;
+	-webkit-user-select: @user_select;
+	user-select: @user_select;
+}
+
+.perspective(@perspective) {
+	-moz-perspective: @perspective;
+	-ms-perspective: @perspective;
+	-webkit-perspective: @perspective;
+	perspective: @perspective;
+}

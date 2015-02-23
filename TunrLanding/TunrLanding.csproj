@@ -166,6 +166,8 @@
     <Content Include="Content\Fonts\OpenSans-ExtraBold-webfont.svg" />
     <Content Include="Content\Fonts\OpenSans-Light-webfont.svg" />
     <Content Include="Content\Fonts\OpenSans-Regular-webfont.svg" />
+    <Content Include="Content\Images\image02.jpg" />
+    <Content Include="Content\Images\image03.jpg" />
     <Content Include="Content\Images\image01.jpg" />
     <Content Include="Content\Style.css" />
     <Content Include="favicon.ico" />
@@ -209,6 +211,7 @@
     <Content Include="Content\Fonts\OpenSans-Regular-webfont.ttf" />
     <Content Include="Content\Fonts\OpenSans-Regular-webfont.woff" />
     <Content Include="Content\Less\Fonts.less" />
+    <Content Include="Content\Less\Functions.less" />
     <None Include="Project_Readme.html" />
     <None Include="Properties\PublishProfiles\tunr.pubxml" />
     <Content Include="Scripts\application.js.map" />

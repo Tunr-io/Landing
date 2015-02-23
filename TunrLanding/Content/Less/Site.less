@@ -1,8 +1,10 @@
-﻿@import "Fonts.less";
+﻿@import "Functions.less";
+@import "Fonts.less";
 
 body {
     margin: 0;
     background-color: black;
+    font-family: 'Open Sans';
 }
 
 #Intro {
@@ -12,6 +14,7 @@ body {
     height: 100%;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     color: #fff;
     
     div.logo {
@@ -20,12 +23,19 @@ body {
         font-weight: 100;
     }
 
+    div.betaBlurb {
+        text-transform: lowercase;
+        font-weight: 100;
+        margin-bottom: 16px;
+    }
+
     canvas {
         position: absolute;
-        top:0;
-        bottom:0;
-        left:0;
-        right:0;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: -100;
     }
 }
 
@@ -40,6 +50,23 @@ div.more {
         padding: 64px 0;
         &.what {
             background-color: #fff;
+        }
+    }
+}
+
+form {
+    input[type=email] {
+        font-family: 'Open Sans';
+        font-size: 26px;
+        padding: 5px;
+        opacity: 0.5;
+        .transition(opacity 200ms ease-out);
+        &:hover {
+            opacity: 0.7;
+        }
+
+        &:focus {
+            opacity: 1;
         }
     }
 }

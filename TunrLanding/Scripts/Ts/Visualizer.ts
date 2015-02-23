@@ -1,8 +1,8 @@
 ﻿/// <reference path="../typings/createjs/createjs.d.ts" />
 
 class Visualizer {
-    public static images = ['Content/Images/image01.jpg'];
-    public static textLines = ["Stop leasing your music", "Ownership + Control"];
+    public static images = ['Content/Images/image01.jpg', 'Content/Images/image02.jpg', 'Content/Images/image03.jpg'];
+    public static textLines = ["Stop leasing your music", "Ownership + Control", "Access anywhere", "Embrace your library", "No compromises"];
     private canvas: HTMLCanvasElement;
     private stage: createjs.Stage;
     private currentVisual: Visual; // The visual that is currently being played.
@@ -13,14 +13,18 @@ class Visualizer {
     }
 
     public init(): void {
-        var parent: HTMLElement = this.canvas.parentElement;
-        this.canvas.width = parent.clientWidth;
-        this.canvas.height = parent.clientHeight;
+        this.resize();
         this.stage = new createjs.Stage(this.canvas);
         this.stage.autoClear = true;
         createjs.Ticker.setFPS(60);
         var tick_bind = this.tick.bind(this);
         createjs.Ticker.addEventListener("tick", tick_bind);
+    }
+
+    public resize(): void {
+        var parent: HTMLElement = this.canvas.parentElement;
+        this.canvas.width = parent.clientWidth;
+        this.canvas.height = parent.clientHeight;
     }
 
 	/**
@@ -64,7 +68,7 @@ class Visualizer {
  */
 class VisualBG extends createjs.Container {
     public static MAX_ZOOM_PERCENTAGE: number = 30;
-    public static IMAGE_ALPHA: number = 0.15;
+    public static IMAGE_ALPHA: number = 0.10;
     public static PAN_MIN_TIME: number = 20000;
     public static PAN_MAX_TIME: number = 35000;
 
@@ -210,7 +214,7 @@ class LineScrollVisual extends Visual {
     public show(callback: () => void): void {
 
         // Pick a number of fields to show... has to be at least two.
-        var numLines = 1 + Math.floor(Math.random() * (this.textLines.length - 1));
+        var numLines = 1 + Math.floor(Math.random() * 2);
 
         // Pick an initial side (for the first line to fly in from)
         var firstSide = Math.floor(Math.random() * 2); // 0 = left, 1 = right
@@ -299,7 +303,7 @@ class VisualizerText extends createjs.Text {
         super(text.toUpperCase(), font, "#fff");
         //size * 0.34
         this.setBounds(0, Math.round(size * this.topMultiplier), this.getBounds().width, Math.round(size * this.heightMultiplier));
-        this.alpha = 0.2;
+        this.alpha = 0.05;
         //this.lineHeight = 1.5;
     }
 }
