@@ -22,7 +22,6 @@ module.exports = function (grunt) {
                     references: [
                         "Scripts/Typings/**/*.d.ts"
                     ]
-
                 }
             }
         }
