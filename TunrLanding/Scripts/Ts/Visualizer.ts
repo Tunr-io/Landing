@@ -68,7 +68,7 @@ class Visualizer {
  */
 class VisualBG extends createjs.Container {
     public static MAX_ZOOM_PERCENTAGE: number = 30;
-    public static IMAGE_ALPHA: number = 0.10;
+    public static IMAGE_ALPHA: number = 0.15;
     public static PAN_MIN_TIME: number = 20000;
     public static PAN_MAX_TIME: number = 35000;
 
