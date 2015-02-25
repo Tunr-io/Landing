@@ -146,6 +146,9 @@
     <Content Include="Content\Images\image02.jpg" />
     <Content Include="Content\Images\image03.jpg" />
     <Content Include="Content\Images\image01.jpg" />
+    <Content Include="Content\Images\StopLeasing.png" />
+    <Content Include="Content\Images\StopLeasingWeb.svg" />
+    <Content Include="Content\Images\TunrDiagramWeb.svg" />
     <Content Include="Content\Style.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />

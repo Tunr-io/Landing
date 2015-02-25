@@ -66,7 +66,31 @@ div.more {
 
         &.what {
             background-color: #fff;
-            min-height: 480px;
+            text-align: center;
+            & > div {
+                display: inline-flex;
+                max-width: 1280px;
+                /* align-items: center; */
+                justify-content: center;
+                text-align: center;
+                div.imageContainer {
+                    flex-shrink: 1;
+                    img {
+                        max-width: 100%;
+                    }
+                }
+                div.blurb {
+                    text-align: left;
+                    flex-shrink: 3;
+                    h1 {
+                        margin: 0;
+                        font-size: 52px;
+                    }
+                    p {
+                        font-size: 20px;
+                    }
+                }
+            }
         }
 
         div.accentText {
