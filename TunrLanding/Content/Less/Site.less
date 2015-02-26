@@ -126,15 +126,16 @@ div.more {
 }
 
 form {
-    input[type=email] {
+    input[type=email], input[type=password], input[type=text] {
         font-family: 'Open Sans';
-        font-size: 26px;
+        font-size: 22px;
         padding: 5px;
+        margin: 6px 0;
         opacity: 0.5;
         .transition(opacity 200ms ease-out);
 
         @media (max-width:640px) {
-            font-size: 18px;
+            font-size: 16px;
         }
 
         &:hover {
@@ -144,5 +145,15 @@ form {
         &:focus {
             opacity: 1;
         }
+    }
+
+    input[type=submit] {
+        background-color: transparent;
+        border: none;
+        font-weight: 900;
+        font-size: 20px;
+        color: #fff;
+        text-transform: uppercase;
+        margin: 6px 0;
     }
 }
