@@ -7,6 +7,21 @@ body {
     font-family: 'Open Sans';
 }
 
+a#LogIn {
+    position: fixed;
+    top: 12px;
+    right: 12px;
+    font-weight: 900;
+    font-size: 22px;
+    text-decoration: none;
+    color: #fff;
+    opacity: 0.6;
+    &:hover {
+        opacity: 1;
+    }
+    z-index: 100;
+}
+
 #Intro {
     position: absolute;
     display: flex;
@@ -145,6 +160,10 @@ form {
         &:focus {
             opacity: 1;
         }
+    }
+
+    input:disabled {
+        opacity:0.2;
     }
 
     input[type=submit] {

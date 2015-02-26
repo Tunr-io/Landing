@@ -9,6 +9,7 @@
     <script src="~/Scripts/application.js"></script>
 </head>
 <body>
+    <a id="LogIn" href="https://play.tunr.io">Log In</a>
     <section id="Intro">
         <div class="logo">Tunr</div>
         <div class="betaBlurb">
@@ -78,7 +79,11 @@
                         Password: regForm.getElementsByTagName("input")[2].value
                     },
                     success: function () {
-                        document.getElementsByClassName("betaBlurb")[0].innerHTML = "You're in! Check your e-mail to activate.";
+                        document.getElementsByClassName("betaBlurb")[0].innerHTML = "You're in! Check your e-mail to activate.<br />It might take awhile to show up due to high demand.";
+                        regForm.getElementsByTagName("input")[0].style.visibility = "hidden";
+                        regForm.getElementsByTagName("input")[1].style.visibility = "hidden";
+                        regForm.getElementsByTagName("input")[2].style.visibility = "hidden";
+                        regForm.getElementsByTagName("input")[3].style.visibility = "hidden";
                     },
                     error: function () {
                         document.getElementsByClassName("betaBlurb")[0].innerHTML = "Sorry, there was a problem. Have you already registered?";
