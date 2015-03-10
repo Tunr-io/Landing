@@ -141,16 +141,26 @@
            id="path3339"
            d="m 66,81 c -4,-1 -5,-4 -5,-8 l 0,-1 -11,0 -11,0 0,1 c 0,4 -1,7 -5,8 -0.97,0.242 -1,2 0,2 l 16,0 16,0 c 1,0 0.97,-1.758 0,-2 z" />
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="77.276672"
-         y="796.28851"
-         id="text3357"><tspan
-           id="tspan3359"
-           x="77.276672"
-           y="796.28851"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff">Tunr</tspan></text>
+      <g
+         id="text3357"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path4203"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 92.349915,796.28851 -2.640381,0 0,-35.01709 -12.176514,0 0,-2.46093 26.99341,0 0,2.46093 -12.176515,0 0,35.01709 z" />
+        <path
+           id="path4205"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 111.62726,768.42352 0,18.04688 q 0,4.2041 1.7688,6.12671 1.7688,1.89697 5.48584,1.89697 4.97314,0 7.30591,-2.51221 2.35839,-2.5122 2.35839,-8.17749 l 0,-15.38086 2.51221,0 0,27.86499 -2.15332,0 -0.46143,-3.84521 -0.1538,0 q -2.71729,4.35791 -9.66431,4.35791 -9.5105,0 -9.5105,-10.177 l 0,-18.20069 2.51221,0 z" />
+        <path
+           id="path4207"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 159.82062,796.28851 0,-18.07251 q 0,-4.2041 -1.7688,-6.10107 -1.7688,-1.92261 -5.48584,-1.92261 -4.99878,0 -7.33154,2.53784 -2.30713,2.51221 -2.30713,8.17749 l 0,15.38086 -2.53784,0 0,-27.86499 2.15332,0 0.48706,3.81958 0.1538,0 q 2.71729,-4.35791 9.66431,-4.35791 9.48486,0 9.48486,10.177 l 0,18.22632 -2.5122,0 z" />
+        <path
+           id="path4209"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 182.32794,767.88519 q 1.7688,0 3.79395,0.35889 l -0.48706,2.4353 q -1.74317,-0.43579 -3.61451,-0.43579 -3.56323,0 -5.84472,3.0249 -2.2815,3.02491 -2.2815,7.63916 l 0,15.38086 -2.53784,0 0,-27.86499 2.15332,0 0.25635,5.02442 0.17944,0 q 1.71753,-3.07617 3.66578,-4.30664 1.94824,-1.25611 4.71679,-1.25611 z" />
+      </g>
     </g>
     <path
        style="fill:#ffffff"
@@ -252,16 +262,26 @@
              d="m 69.562,81.604 -39.124,0 0,-66.222 39.125,0 0,66.222 z m 0,-69.986 c 0,0.673 -0.545,1.217 -1.219,1.217 -0.672,0 -1.219,-0.544 -1.219,-1.217 0,-0.675 0.547,-1.219 1.219,-1.219 0.675,0 1.219,0.544 1.219,1.219 m 3.274,79.728 0,-82.207 c 0,0 0,-3.652 -3.654,-3.652 l -7.832,0 C 61.246,5.209 60.752,5 60.154,5 59.56,5 59.064,5.209 58.959,5.486 l -28.143,0 c 0,0 -3.652,0 -3.652,3.652 l 0,82.207 c 0,0 0,3.654 3.652,3.654 l 38.365,0 C 69.182,95 72.836,95 72.836,91.346" />
         </g>
       </g>
-      <text
+      <g
          id="text3357-7"
-         y="814.62396"
-         x="674.00378"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path4212"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
-           y="814.62396"
-           x="674.00378"
-           id="tspan3359-2">Tunr</tspan></text>
+           d="m 680.46375,814.62396 -1.1316,0 0,-15.00732 -5.2185,0 0,-1.05469 11.5686,0 0,1.05469 -5.2185,0 0,15.00732 z" />
+        <path
+           id="path4214"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 688.72546,802.68182 0,7.73438 q 0,1.80176 0.75806,2.62573 0.75806,0.81299 2.35107,0.81299 2.13135,0 3.13111,-1.07666 1.01074,-1.07666 1.01074,-3.50464 l 0,-6.5918 1.07666,0 0,11.94214 -0.92285,0 -0.19775,-1.64795 -0.0659,0 q -1.16455,1.86768 -4.14185,1.86768 -4.07593,0 -4.07593,-4.36157 l 0,-7.8003 1.07666,0 z" />
+        <path
+           id="path4216"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 709.37976,814.62396 0,-7.74536 q 0,-1.80176 -0.75806,-2.61475 -0.75805,-0.82397 -2.35107,-0.82397 -2.14233,0 -3.14209,1.08765 -0.98877,1.07666 -0.98877,3.50464 l 0,6.59179 -1.08765,0 0,-11.94214 0.92286,0 0.20874,1.63697 0.0659,0 q 1.16455,-1.86768 4.14185,-1.86768 4.06494,0 4.06494,4.36157 l 0,7.81128 -1.07666,0 z" />
+        <path
+           id="path4219"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 719.02576,802.45111 q 0.75805,0 1.62597,0.15381 l -0.20874,1.0437 q -0.74707,-0.18677 -1.54907,-0.18677 -1.5271,0 -2.50488,1.29639 -0.97779,1.29639 -0.97779,3.27393 l 0,6.59179 -1.08764,0 0,-11.94214 0.92285,0 0.10986,2.15332 0.0769,0 q 0.73608,-1.31836 1.57104,-1.8457 0.83496,-0.53833 2.02149,-0.53833 z" />
+      </g>
     </g>
     <g
        style="fill:#ffffff"
@@ -310,26 +330,46 @@
            id="path7402"
            d="m 55.931,97.057 c -0.654,-0.264 -1.255,-0.542 -1.773,-0.836 l -8.315,0 c -0.518,0.294 -1.119,0.572 -1.772,0.836 l 11.86,0 z" />
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:35.86192322px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="835.46826"
-         y="685.1781"
-         id="text3357-7-9"><tspan
-           id="tspan3359-2-0"
-           x="835.46826"
-           y="685.1781"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff">Tunr</tspan></text>
+      <g
+         id="text3357-7-9"
+         style="font-style:normal;font-weight:normal;font-size:35.86192322px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path4231"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 846.95264,685.1781 -2.01172,0 0,-26.67969 -9.27735,0 0,-1.875 20.56641,0 0,1.875 -9.27734,0 0,26.67969 z" />
+        <path
+           id="path4233"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 861.64014,663.94763 0,13.75 q 0,3.20313 1.34765,4.66797 1.34766,1.44531 4.17969,1.44531 3.78906,0 5.56641,-1.91406 1.79687,-1.91406 1.79687,-6.23047 l 0,-11.71875 1.91406,0 0,21.23047 -1.64062,0 -0.35156,-2.92969 -0.11719,0 q -2.07031,3.32032 -7.36328,3.32032 -7.2461,0 -7.2461,-7.75391 l 0,-13.86719 1.91407,0 z" />
+        <path
+           id="path4235"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 898.35889,685.1781 0,-13.76953 q 0,-3.20313 -1.34766,-4.64844 -1.34766,-1.46484 -4.17969,-1.46484 -3.80859,0 -5.58593,1.93359 -1.75782,1.91406 -1.75782,6.23047 l 0,11.71875 -1.93359,0 0,-21.23047 1.64062,0 0.3711,2.91016 0.11719,0 q 2.07031,-3.32031 7.36328,-3.32031 7.22656,0 7.22656,7.7539 l 0,13.88672 -1.91406,0 z" />
+        <path
+           id="path4237"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+           d="m 915.50732,663.53748 q 1.34766,0 2.89063,0.27343 l -0.37109,1.85547 q -1.32813,-0.33203 -2.75391,-0.33203 -2.71484,0 -4.45313,2.30469 -1.73828,2.30469 -1.73828,5.82031 l 0,11.71875 -1.93359,0 0,-21.23047 1.64062,0 0.19532,3.82813 0.13672,0 q 1.30859,-2.34375 2.79296,-3.28125 1.48438,-0.95703 3.59375,-0.95703 z" />
+      </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:35.86192322px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="730.23212"
-       y="782.49194"
-       id="text3357-7-9-8"><tspan
-         id="tspan3359-2-0-2"
-         x="730.23212"
-         y="782.49194"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff">Tunr</tspan></text>
+    <g
+       id="text3357-7-9-8"
+       style="font-style:normal;font-weight:normal;font-size:35.86192322px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         id="path4222"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+         d="m 741.71649,782.49194 -2.01172,0 0,-26.67968 -9.27734,0 0,-1.875 20.56641,0 0,1.875 -9.27735,0 0,26.67968 z" />
+      <path
+         id="path4224"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+         d="m 756.40399,761.26147 0,13.75 q 0,3.20313 1.34766,4.66797 1.34765,1.44532 4.17969,1.44532 3.78906,0 5.5664,-1.91407 1.79688,-1.91406 1.79688,-6.23047 l 0,-11.71875 1.91406,0 0,21.23047 -1.64063,0 -0.35156,-2.92968 -0.11719,0 q -2.07031,3.32031 -7.36328,3.32031 -7.24609,0 -7.24609,-7.75391 l 0,-13.86719 1.91406,0 z" />
+      <path
+         id="path4226"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+         d="m 793.12274,782.49194 0,-13.76953 q 0,-3.20312 -1.34765,-4.64844 -1.34766,-1.46484 -4.17969,-1.46484 -3.8086,0 -5.58594,1.93359 -1.75781,1.91407 -1.75781,6.23047 l 0,11.71875 -1.9336,0 0,-21.23047 1.64063,0 0.37109,2.91016 0.11719,0 q 2.07031,-3.32031 7.36328,-3.32031 7.22656,0 7.22656,7.7539 l 0,13.88672 -1.91406,0 z" />
+      <path
+         id="path4228"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#ffffff"
+         d="m 810.27118,760.85132 q 1.34766,0 2.89062,0.27344 l -0.37109,1.85546 q -1.32812,-0.33203 -2.75391,-0.33203 -2.71484,0 -4.45312,2.30469 -1.73828,2.30469 -1.73828,5.82031 l 0,11.71875 -1.9336,0 0,-21.23047 1.64063,0 0.19531,3.82813 0.13672,0 q 1.30859,-2.34375 2.79297,-3.28125 1.48437,-0.95703 3.59375,-0.95703 z" />
+    </g>
   </g>
 </svg>
